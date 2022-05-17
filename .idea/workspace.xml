@@ -12,7 +12,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="notes filter system" />
+    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="note use case class">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/NoteApp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/di/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/data/data_source/NoteDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/data/data_source/NoteDatabase.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,10 +33,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Data Class" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Sealed Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -156,7 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652803530116</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete note function">
+      <created>1652803816535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652803816535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="note use case class">
+      <created>1652803987025</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652803987025</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +195,8 @@
     <MESSAGE value="room db set up" />
     <MESSAGE value="room links are set up" />
     <MESSAGE value="notes filter system" />
-    <option name="LAST_COMMIT_MESSAGE" value="notes filter system" />
+    <MESSAGE value="delete note function" />
+    <MESSAGE value="note use case class" />
+    <option name="LAST_COMMIT_MESSAGE" value="note use case class" />
   </component>
 </project>
