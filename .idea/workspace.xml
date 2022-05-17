@@ -12,12 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="room links are set up">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/use_case/GetNotes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/util/NoteOrder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/util/OrderType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="notes filter system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652802134535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="notes filter system">
+      <created>1652803530116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652803530116</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +174,7 @@
     <MESSAGE value="fix files" />
     <MESSAGE value="room db set up" />
     <MESSAGE value="room links are set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="room links are set up" />
+    <MESSAGE value="notes filter system" />
+    <option name="LAST_COMMIT_MESSAGE" value="notes filter system" />
   </component>
 </project>
