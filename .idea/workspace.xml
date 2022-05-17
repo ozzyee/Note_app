@@ -12,9 +12,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="fix files">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/data/data_source/NoteDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/model/Note.kt" afterDir="false" />
+    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="room db set up">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/data/repository/NoteRepositoryImpala.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/repository/NoteRepository.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Data Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652800232482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="room db set up">
+      <created>1652801489119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652801489119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix files" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix files" />
+    <MESSAGE value="room db set up" />
+    <option name="LAST_COMMIT_MESSAGE" value="room db set up" />
   </component>
 </project>
