@@ -12,15 +12,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="note screen is now complete">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/use_case/GetNote.kt" afterDir="false" />
+    <list default="true" id="89b9a21a-3baa-48fa-91b8-bfc92eed9648" name="Default Changelist" comment="get note class is now done">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/presentation/add_edit_note/AddEditNoteEvent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/presentation/add_edit_note/AddEditNoteViewmodel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/presentation/add_edit_note/NotesTextFieldsState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/di/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/di/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/use_case/NoteUseCases.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/use_case/NoteUseCases.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R5CR9321KPE]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -29,11 +34,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Data Class" />
         <option value="Kotlin Sealed Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
       </list>
     </option>
   </component>
@@ -217,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652904336730</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="get note class is now done">
+      <created>1652904605479</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652904605479</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +255,7 @@
     <MESSAGE value="notes item component complete" />
     <MESSAGE value="notes order section comment is complete" />
     <MESSAGE value="note screen is now complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="note screen is now complete" />
+    <MESSAGE value="get note class is now done" />
+    <option name="LAST_COMMIT_MESSAGE" value="get note class is now done" />
   </component>
 </project>
