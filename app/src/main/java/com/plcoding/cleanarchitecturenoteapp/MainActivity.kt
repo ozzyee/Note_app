@@ -1,4 +1,4 @@
-package com.plcoding.cleanarchitecturenoteapp.feature_note.presentation
+package com.plcoding.cleanarchitecturenoteapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
